@@ -8,14 +8,14 @@
 
 .banner__contents {
   margin-left: 30px;
-  padding-top: 140px;
+  padding-top: 360px;
   height: 190px;
 }
 
 .banner__title {
   font-size: 3rem;
   font-weight: 800;
-  padding-bottom: 0.3rem;
+  padding-bottom: 16px;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.45);
 }
 
@@ -31,6 +31,7 @@
 
 .banner__buttons {
   display: flex;
+  padding-bottom: 1rem;
 }
 
 .banner__button {
